@@ -1,0 +1,14 @@
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.exe
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.deps.json
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.runtimeconfig.json
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.dll
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.pdb
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.AssemblyInfoInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.AssemblyInfo.cs
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.dll
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\refint\ODEV1.dll
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.pdb
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.genruntimeconfig.cache
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\ABSTRACTİON\ODEV1\ODEV1\ODEV1\obj\Debug\net8.0\ref\ODEV1.dll
