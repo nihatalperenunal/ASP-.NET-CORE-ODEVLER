@@ -1,0 +1,9 @@
+C# dilinde bir dizi, aynı türdeki birden fazla öğeyi tek bir veri yapısında saklamak için kullanılan bir veri koleksiyonudur. Diziler, sabit bir boyuta sahip olup öğelere sıralı bir şekilde erişim sağlanır.
+Dizilerin Temel Özellikleri
+Statik Yapı: Diziler, tanımlandıkları anda sabit bir boyuta sahiptir. Boyutları çalışma zamanında değiştirilemez.
+
+Homojenlik: Bir dizide yalnızca aynı türdeki veriler saklanabilir. Örneğin, bir int dizisinde yalnızca tamsayılar bulunabilir.
+
+Sıralı Saklama: Dizideki öğeler bellekte ardışık bir şekilde saklanır ve her bir öğeye sırasıyla ulaşılır.
+
+Sıfırdan Başlayan İndeks: C# dizileri 0 tabanlıdır; bu, ilk öğenin index 0, ikinci öğenin index 1 olduğu anlamına gelir.
