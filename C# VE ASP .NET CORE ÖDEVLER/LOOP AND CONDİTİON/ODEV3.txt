@@ -1,0 +1,23 @@
+While Döngüsü
+Bu döngü, önce koşulu kontrol eder ve koşul doğruysa çalışır. Eğer koşul baştan yanlışsa, döngüye hiç girmez. While döngüsü örneği:
+int sayac = 1;
+
+while (sayac <= 5)
+{
+    Console.WriteLine("While döngüsü: " + sayac);
+    sayac++;
+}
+
+// Çıktı: While döngüsü 1'den 5'e kadar olan sayıları yazdırır.
+
+Do-While Döngüsü
+Bu döngü, önce işlemi yapar, sonra koşulu kontrol eder. Koşul yanlış bile olsa en az bir kez çalışır. Do while döngüsü örneği:
+int sayac = 6;
+
+do
+{
+    Console.WriteLine("Do-While döngüsü: " + sayac);
+    sayac++;
+} while (sayac <= 5);
+
+// Çıktı: Döngü sadece bir kere "Do-While döngüsü: 6" yazar.

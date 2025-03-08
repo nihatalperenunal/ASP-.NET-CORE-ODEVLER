@@ -1,0 +1,14 @@
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\bin\Debug\net8.0\ODEV4.exe
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\bin\Debug\net8.0\ODEV4.deps.json
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\bin\Debug\net8.0\ODEV4.runtimeconfig.json
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\bin\Debug\net8.0\ODEV4.dll
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\bin\Debug\net8.0\ODEV4.pdb
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.AssemblyInfoInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.AssemblyInfo.cs
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.dll
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\refint\ODEV4.dll
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.pdb
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ODEV4.genruntimeconfig.cache
+C:\Users\nihat\OneDrive\Masaüstü\C# VE ASP .NET CORE ÖDEVLER\LOOP AND CONDİTİON\ODEV4\ODEV4\ODEV4\obj\Debug\net8.0\ref\ODEV4.dll
