@@ -1,0 +1,63 @@
+C#’ta Namespace Nedir?
+Namespace, C# programlama dilinde sınıfları, arayüzleri, yapı ve diğer kod öğelerini düzenlemek ve ad çatışmalarını önlemek için kullanılan bir yapıdır. Özellikle büyük projelerde kodun okunabilirliğini ve yönetilebilirliğini artırmak amacıyla kullanılır. Örneğin, aynı isimde iki sınıfınız varsa, bu sınıfları farklı namespace'lerde tanımlayarak ad çakışmaları önlenebilir.
+
+Kullanım Örneği:
+
+namespace OrnekNamespace1
+{
+    public class SinifA
+    {
+        public void Yazdir()
+        {
+            Console.WriteLine("OrnekNamespace1 içindeki SinifA.");
+        }
+    }
+}
+
+namespace OrnekNamespace2
+{
+    public class SinifA
+    {
+        public void Yazdir()
+        {
+            Console.WriteLine("OrnekNamespace2 içindeki SinifA.");
+        }
+    }
+}
+
+Avantajları:
+
+Ad Çatışmalarını Önler: Aynı projede farklı sınıflar aynı ada sahip olabilir, ancak bunları farklı namespace'lerde tanımlayarak birbirleriyle çakışmalarını engellersiniz.
+
+Kod Düzeni ve Yönetimi Sağlar: Kodunuzu farklı bölümlere ayırarak daha düzenli bir yapı elde edebilirsiniz.
+
+Yeniden Kullanılabilirlik: Farklı namespace'ler içinde tanımlanan sınıflar, yalnızca ilgili yerlerde kullanılabilir ve diğer namespace'lerden bağımsız olur.
+
+Ekstra Katman Sağlar: Büyük ve karmaşık projelerde, namespace'ler ile kod modüllerini ayrıştırmak daha kolay olur.
+
+Genişletilebilirlik (Extensibility) Nedir?
+
+
+Genişletilebilirlik, bir yazılımın gelecekte yeni özellikler eklenmesine veya mevcut işlevlerin genişletilmesine olanak tanıma kapasitesidir. Genişletilebilir bir yazılım tasarımı, mevcut kodu çok az değiştirmeden veya hiç değiştirmeden yeni işlevlerin eklenmesini sağlar.
+
+Genişletilebilirliği Sağlamak için Kullanılabilecek Teknikler:
+
+Modüler Tasarım: Yazılımı bağımsız modüllere ayırarak yeni özellikler kolayca eklenebilir.
+
+Arayüz (Interface) Kullanımı: İlgili işlevsellikler için arayüzler kullanmak, esnek bir yapı sağlar. Yeni sınıflar, mevcut arayüzleri implement (uygulayarak) ederek genişletilebilir.
+
+Türetme ve Polimorfizm: Nesne yönelimli programlama (OOP) ilkelerine uyarak, yeni özellikler türemiş sınıflar ile kolayca eklenebilir.
+
+Plug-in Sistemi: Yazılımı eklentiler (plug-in) üzerinden genişletilebilir şekilde tasarlamak.
+
+İyi Belgelenmiş API'ler: Dış sistemlerle entegrasyon kolaylığı sağlayan API'ler, genişletilebilirliğin temel yapı taşlarından biridir.
+
+Açık/Kapalı Prensibi (Open/Closed Principle): Kod, genişletmeye açık, ancak değişikliğe kapalı olmalıdır. Yeni işlevsellikler mevcut sınıfları değiştirmek yerine onların üzerine inşa edilmelidir.
+
+Genişletilebilir Yazılımın Avantajları:
+
+Yazılımın yaşam döngüsü boyunca bakımı kolaylaşır.
+
+İşlevsellik ihtiyaçlarına hızla uyum sağlanabilir.
+
+Gelecekte yapılacak iyileştirme ve genişletmeler için düşük maliyet sağlar.
