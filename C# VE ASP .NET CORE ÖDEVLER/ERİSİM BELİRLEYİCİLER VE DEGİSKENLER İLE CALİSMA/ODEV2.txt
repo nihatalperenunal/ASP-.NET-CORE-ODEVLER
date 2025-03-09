@@ -1,0 +1,30 @@
+C# dilinde kullanılan erişim belirleyiciler (Access Modifiers), bir sınıfın, değişkenin veya metodun başka kod bölümlerinden erişilip erişilemeyeceğini belirler. Bunlar kapsülleme (encapsulation) ilkesinin önemli bir parçasıdır ve nesne yönelimli programlamada (OOP) veri güvenliğini sağlamaya yardımcı olur.
+
+public	Her yerden erişilebilir.	Bir üniversitenin kampüs giriş kapısı: Herkes girebilir.
+
+private	Sadece tanımlandığı sınıf içinde erişilebilir.	Bir şirketin kasa şifresi: Sadece yetkili kişiler erişebilir.
+
+protected	Sadece tanımlandığı sınıf ve ondan türetilen alt sınıflar erişebilir.	Aile içinde kullanılan özel bir dil veya şifre: Sadece aile üyeleri anlar.
+
+internal	Aynı proje içindeki diğer sınıflardan erişilebilir, ancak farklı projelerden erişilemez.	Bir şirketin çalışanlarına özel intranet ağı: Dışarıdan erişilemez, ama içerideki herkes ulaşabilir.
+
+protected internal	Hem aynı projeden erişilebilir hem de türetilmiş sınıflar tarafından başka projelerden erişilebilir.	Büyük bir holdingin şube çalışanlarına özel sistemleri: Holding çalışanları erişebilir, ancak dışarıdan biri erişemez.
+
+private protected	Aynı proje içinde yalnızca türetilen sınıflar erişebilir.	Ev içinde çocukların odasına özel bir kasa: Sadece aile bireyleri ve çocuklar açabilir.
+
+Erişim Belirleyicilerin OOP'deki Rolü
+
+Erişim belirleyiciler, kapsülleme (encapsulation) ilkesinin temelini oluşturur. Bu ilke, verileri saklamayı ve yalnızca belirli yöntemlerle erişilmesini sağlamayı amaçlar. OOP’de erişim belirleyicilerin üç temel katkısı şunlardır:
+
+Veri Güvenliği ve Gizliliği
+
+private erişim belirleyici, hassas verilerin doğrudan dışarıdan değiştirilmesini önler.
+Örnek: Bir bankanın müşteri bilgileri sadece yetkili çalışanlar tarafından görülebilir.
+Kodun Anlaşılabilirliği ve Yönetimi
+
+public, internal gibi belirleyiciler, hangi üyelerin dış dünyaya açık olduğunu belirler ve modüler kod yazmayı kolaylaştırır.
+Örnek: Bir araba üretim hattında, motorun çalışmasını sağlayan sistemin dışarıdan müdahaleye kapalı olması gerekir.
+Miras (Inheritance) ve Genişletilebilirlik
+
+protected ve protected internal gibi belirleyiciler, bir sınıfın alt sınıflar tarafından nasıl kullanılacağını kontrol eder.
+Örnek: Bir şirkette müdürlerin erişebildiği özel veriler, çalışanlar tarafından görülemez ama yöneticiler tarafından kullanılabilir.
