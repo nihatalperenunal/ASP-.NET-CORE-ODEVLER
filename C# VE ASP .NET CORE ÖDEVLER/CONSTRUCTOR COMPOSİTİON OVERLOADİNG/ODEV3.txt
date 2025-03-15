@@ -1,0 +1,45 @@
+Garbage Collector (GC) Nedir ve Nasıl Çalışır?
+
+1. Garbage Collector (GC) Nedir?
+
+Garbage Collector (GC), C# gibi managed dillerde bellek yönetimini otomatikleştiren bir mekanizmadır. Program çalışırken dinamik olarak oluşturulan ve kullanım sonrası boşa çıkan nesnelerin bellekten temizlenmesini sağlar.
+
+2. Nasıl Çalışır?
+
+Root Referanslar: GC, öncelikle root referansların izini sürer. Bunlar static alanlar, local değişkenler ve CPU registerlarında saklanan referanslardır.
+
+Reachability (Erişilebilirlik): Bir nesneye herhangi bir root referanstan ulaşılamıyorsa, bu nesne 'erişilemez' kabul edilir.
+
+Mark and Sweep: GC, yaşamayan (erişilemeyen) nesneleri işaretleyip bellekten temizler.
+
+Compact: Bellek daha etkili kullanılsın diye yaşayan nesneler bellekte birleştirilir ve boş alanların düzenlenmesi sağlanır.
+
+3. GC'nin Bellek Yönetimindeki Rolü
+
+Bellek Sızmasını Önler: Kullanım sonrası boşta kalan nesneler otomatik temizlenir.
+
+Performans: İyi tasarlanmış bir GC, sistem performansını yükseltir.
+
+Kolaylık: Programcıların manuel bellek yönetimi yapmasına gerek kalmaz.
+
+4. GC Nesil (Generation) Kavramı
+
+Gen 0: Yeni oluşan nesneler.
+
+Gen 1: Birinci temizlemeden sağ çıkan nesneler.
+
+Gen 2: Uzun ömürlü nesneler.
+
+GC, daha çok Gen 0 nesnelerini temizlemeye çalışır, çünkü bu daha az maliyetlidir.
+
+5. Manuel GC Kontrolü
+
+GC.Collect() metodu kullanılarak manuel olarak çalıştırılabilir. Ancak, bu genellikle tavsiye edilmez, çünkü GC zaten otomatik çalışır.
+
+6. GC'yi Etkileyen Faktörler
+
+Unmanaged Resources (Yönetilmeyen Kaynaklar): Dosya veya veritabanı bağlantıları gibi kaynaklar Dispose() metodu ile temizlenmelidir.
+
+Finalizer: ~ClassName() şeklinde kullanılarak nesne ömrü sonlandığında çağırılabilir.
+
+Garbage Collector, C# dilinde bellek yönetimini basitleştirir ve geliştiricilerin bellek sızması gibi sorunlarla uğraşmasını engeller. Ancak, unmanaged kaynaklar dikkatlice yönetilmelidir.

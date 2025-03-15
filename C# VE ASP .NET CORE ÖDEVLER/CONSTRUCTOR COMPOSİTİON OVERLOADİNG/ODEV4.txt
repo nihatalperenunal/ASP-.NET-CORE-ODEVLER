@@ -1,0 +1,74 @@
+Generic Class'lar ve Generic Method'lar (Boxing & Unboxing)
+
+1. Generic Yapıların Avantajları
+
+Tip Güvenliği: Generic yapılar, derleme zamanında tip kontrolü sağlar. Yanlış tip kullanımında hata vererek hataların önüne geçer.
+
+Kod Tekrarını Azaltır: Farklı tipler için ayrı ayrı kod yazmak yerine, tek bir generic yapıyla çoklu tipleri destekleyebilirsiniz.
+
+Performans: Generic yapılar, boxing ve unboxing'i engelleyerek performansı arttırır.
+
+Esneklik: Generic yapılar, farklı tipler için esnek çözümler sunar.
+
+2. Generic Sınıf ve Metotlarla Esnek Programlama
+
+Generic Sınıf Örneği
+
+public class Depo<T>
+{
+    private T _deger;
+
+    public void Ekle(T deger)
+    {
+        _deger = deger;
+    }
+
+    public T Getir()
+    {
+        return _deger;
+    }
+}
+
+// Kullanımı
+var intDepo = new Depo<int>();
+intDepo.Ekle(10);
+Console.WriteLine(intDepo.Getir());
+
+var stringDepo = new Depo<string>();
+stringDepo.Ekle("Merhaba");
+Console.WriteLine(stringDepo.Getir());
+
+Generic Metot Örneği
+
+public void Yazdir<T>(T veri)
+{
+    Console.WriteLine(veri);
+}
+
+// Kullanımı
+Yazdir(10); // int
+yazdir("Merhaba"); // string
+
+3. Boxing ve Unboxing Nedir?
+
+Boxing: Değer tipli bir değişkenin object tipine dönüştürülmesidir. Bu, heap belleğinde ek bir kopya oluşturur.
+
+Unboxing: Object tipinden değer tipine dönüş yapılmasıdır. Bu, performans maliyeti yaratabilir.
+
+Boxing & Unboxing Örneği
+
+int x = 10;
+object obj = x; // Boxing
+int y = (int)obj; // Unboxing
+
+4. Boxing & Unboxing'in Performansa Etkisi
+
+Boxing ve Unboxing Performansı Düşürebilir: Çünkü her iki işlem de ek bellek tahsisi ve kopyalama işlemleri gerektirir.
+
+Generic Kullanımı Performansı Artırır: Generic yapılar, tip güvenliği sağlayarak boxing ve unboxing işlemlerine gerek bırakmaz.
+
+Sonuç
+
+Generic yapılar, C# programlama dilinde esnek, güvenli ve performanslı kod yazımı sağlar.
+
+Boxing ve unboxing işlemleri gereksiz bellek kullanımı ve performans kaybına yol açabilir. Generic yapılar sayesinde bu sorunlar minimize edilebilir.
