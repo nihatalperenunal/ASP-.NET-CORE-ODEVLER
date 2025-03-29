@@ -1,0 +1,23 @@
+Görsel Programlama Nedir?
+Görsel programlama, kod yazmak yerine grafiksel arayüzler ve nesneler kullanarak yazılım geliştirmeye olanak tanıyan bir programlama yaklaşımıdır. Bu tür programlamada kullanıcılar, sürükle-bırak yöntemiyle bloklar, düğümler veya simgelerle programın mantığını oluştururlar. Görsel programlama dilleri (VPL - Visual Programming Language), özellikle kod yazmayı zorlaştıran karmaşık yapıları soyutlamak ve daha erişilebilir hale getirmek için geliştirilmiştir.
+
+Özellik	              Görsel Programlama	                                                           Metin Tabanlı Programlama
+Kod Yazımı	      Grafiksel öğeler ve bloklar kullanılır.	                                           Metinsel komutlar ve sözdizimi kullanılır.
+Öğrenme Kolaylığı     Daha kolay öğrenilir, yeni başlayanlar için uygundur.	                           Daha fazla dil bilgisi ve sözdizimi kurallarına hakim olunması gerekir.
+Hata Ayıklama	      Hatalar genellikle kullanıcıya görsel olarak gösterilir.	                           Hatalar genellikle hata mesajlarıyla belirtilir ve manuel olarak düzeltilmelidir.
+Esneklik	      Genellikle belirli alanlarla (örneğin oyun, otomasyon, robotik) sınırlıdır.          Her türlü yazılım geliştirme için uygundur.
+Performans	      Daha az optimize edilebilir, genellikle yavaş çalışır.	                           Daha optimize edilebilir ve hızlıdır.
+Uygulama Alanları     Eğitim, oyun geliştirme, robotik, veri akışı yönetimi gibi alanlarda yaygındır.	   Geniş kapsamlıdır;masaüstü, mobil, web, gömülü sistemler gibİ alanlarda kullanılır.
+
+
+
+Görsel Programlamaya Örnekler
+Scratch – Eğitim amaçlı, çocuklar için tasarlanmış bir görsel programlama dili.
+
+Blockly – Google tarafından geliştirilen ve blok tabanlı bir programlama dili.
+
+Node-RED – IoT (Nesnelerin İnterneti) sistemleri için akış tabanlı görsel programlama aracı.
+
+Unreal Engine Blueprint – Oyun geliştirme sürecinde kullanılan bir görsel programlama dili.
+
+Görsel programlama, özellikle programlamaya yeni başlayanlar veya teknik bilgisi olmayan kişiler için avantajlıdır. Ancak, büyük ölçekli ve karmaşık projelerde metin tabanlı programlama daha fazla kontrol ve esneklik sunduğu için tercih edilir.
