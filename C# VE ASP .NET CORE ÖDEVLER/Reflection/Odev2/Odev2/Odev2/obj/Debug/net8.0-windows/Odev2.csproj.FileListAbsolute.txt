@@ -1,0 +1,16 @@
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\bin\Debug\net8.0-windows\Odev2.exe
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\bin\Debug\net8.0-windows\Odev2.deps.json
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\bin\Debug\net8.0-windows\Odev2.runtimeconfig.json
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\bin\Debug\net8.0-windows\Odev2.dll
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\bin\Debug\net8.0-windows\Odev2.pdb
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.Form1.resources
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.AssemblyInfoInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.AssemblyInfo.cs
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.dll
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\refint\Odev2.dll
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.pdb
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\Odev2.genruntimeconfig.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev2\Odev2\Odev2\obj\Debug\net8.0-windows\ref\Odev2.dll

@@ -1,0 +1,16 @@
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\bin\Debug\net8.0-windows\Odev1.exe
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\bin\Debug\net8.0-windows\Odev1.deps.json
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\bin\Debug\net8.0-windows\Odev1.runtimeconfig.json
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\bin\Debug\net8.0-windows\Odev1.dll
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\bin\Debug\net8.0-windows\Odev1.pdb
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.Form1.resources
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.AssemblyInfoInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.AssemblyInfo.cs
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.dll
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\refint\Odev1.dll
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.pdb
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\Odev1.genruntimeconfig.cache
+C:\Users\nihat\OneDrive\Masaüstü\Reflection\Odev1\Odev1\Odev1\obj\Debug\net8.0-windows\ref\Odev1.dll
